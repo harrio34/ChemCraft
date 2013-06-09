@@ -1,0 +1,20 @@
+[
+{
+  "modid": "CC1",
+  "name": "ChemCraft",
+  "description": "Chemistry Mod For Minecraft",
+  "version": "1.5.2",
+  "url": "https://github.com/harrio34/ChemCraft",
+  "updateUrl": "",
+  "authorList": [
+    "Harrio34"
+  ],
+  "credits": "Pahimar, Harrio34",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
